@@ -1,7 +1,7 @@
-<h1 align="center"> Meu Portfólio </h1>
+<h1 align="center"> Meu Relógio Digital </h1>
 
 <p align="center">
-Meu primeiro portfólio na área de programação
+ Relógio Digital
 </p>
 
 <p align="center">
